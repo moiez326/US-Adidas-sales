@@ -20,7 +20,9 @@ The primary goal is to conduct an exhaustive analysis of Adidas's sales data wit
 - [orders.csv](https://github.com/moiez326/US-Adidas-sales/blob/main/data/orders.csv): subset of order information.
 
 ## Insights and Recommendations
-- Regional Sales Performance: The West region shows notably higher sales, indicating a strong market presence. Focused marketing efforts here could further enhance sales.
+![average profit](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2012.04.13.png)
+
+- Regional profit:
 - Product Category Insights: Men's Street Footwear and Women's Apparel are high-performing categories, suggesting robust consumer demand.
 - Growth Opportunities: Other regions, particularly the Southeast, show room for growth. Tailored strategies in these areas could improve market penetration.
 
